@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Monitor</string>
+    <string name="error">Error</string>
+    <string name="bluetooth_not_supported">Device does not support Bluetooth</string>
+    <string name="ok">OK</string>
+    <string name="bluetooth_permission_denied">Bluetooth permission denied</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
